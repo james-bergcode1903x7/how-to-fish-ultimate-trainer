@@ -1,4 +1,5 @@
 <div align="center">
+<img width="460" height="215" alt="image" src="https://github.com/user-attachments/assets/976d123b-d45f-4af6-8cf3-3403d160509b" />
 
 # 🎣 How to Fish — Ultimate Trainer
 
